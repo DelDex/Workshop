@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+//    slkfj
  
     public void register(View view) {
         Intent intent = new Intent(MainActivity.this,RegisterActivity.class);
